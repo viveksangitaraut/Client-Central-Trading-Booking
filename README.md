@@ -7,7 +7,8 @@ Investment Banking.
 # Client
 ____________.
 # Role
-Functional Testing, Database Testing
+Functional Testing, Regression Testing, Sanity Testing, Smoke Testing 
+
 
 #  Description :
 Client Central is the project that deals with communication with seller and Investor. The Charles
