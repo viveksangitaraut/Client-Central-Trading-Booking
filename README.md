@@ -1,9 +1,13 @@
 # Client-Central-Trading-Booking
 
-# Project Name : Client Central Trading Booking.
-# Domain : Investment Banking.
-# Client : ____________.
-# Role : Functional Testing, Database Testing
+# Project Name
+Client Central Trading Booking.
+# Domain
+Investment Banking.
+# Client
+____________.
+# Role
+Functional Testing, Database Testing
 
 #  Description :
 Client Central is the project that deals with communication with seller and Investor. The Charles
